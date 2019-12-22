@@ -1,3 +1,7 @@
+---
+theme : "night"
+transition : "default"
+---
 # Hello, Virtual TJBot
 
 BMXUG TJBotFan
@@ -43,6 +47,18 @@ https://www.atmarkit.co.jp/ait/articles/1905/19/news002.html
 
 ---
 
+### IBM Cloud Login
+
+今日のログインショートコードです。
+セッション参加チェックのため一度このURLからのログインをお願いします。
+
+![](./qr20191210182852050.png)
+
+https://ibm.biz/BdztGR
+
+
+---
+
 ### What's IBM Champion?
 
 IBM の US 本社が世界で活躍するエンジニアの活動実績を表彰・認定する制度
@@ -81,7 +97,7 @@ IBM 英国 Hursley 研究所のメンバーを中心に開発された、ハー�
 
 ---
 
-# What's Virtual TJBot
+## What's Virtual TJBot
 
 物理の TJBot を手に入れる前に試したい・実機ハンズオンで TJBot は無いけど同等のコマンドが試せないかということで
 Node-RED のフローエディタ上で動作する Virtual TJBot を紹介します。
@@ -111,6 +127,18 @@ Virtual TJBot は、Node-RED の Virutal TJBot ノードを利用して稼働し
   - このハンズオン中に過去 Node-RED を動かしたことがある方は個別にご相談ください
 - PC からアクセスすること
   - 設定完了後はお好きな Node-RED のフローエディタが動けばどこでも問題ありません
+
+---
+
+## IBM Cloud Login(再)
+
+今日のログインショートコードです。
+セッション参加チェックのため一度このURLからのログインをお願いします。
+
+![](./qr20191210182852050.png)
+
+https://ibm.biz/BdztGR
+
 
 ---
 
